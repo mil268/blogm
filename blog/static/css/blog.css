@@ -59,4 +59,9 @@ h1, h2, h3, h4 {
 }
 
 
-
+.mil {
+   width:150px;
+   height:150px;
+   border-radius: 50%;
+   border: 5px black solid;
+}
