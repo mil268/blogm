@@ -22,6 +22,10 @@ h1 a,h2 a {
     text-decoration: none;
 }
 
+.page-header  {
+    display:flex;
+}
+
 .content {
     margin-left: 40px;
 }
